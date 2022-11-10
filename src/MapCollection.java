@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class MAP_COLLECTION {
+public class MapCollection {
 
 
     public static Map<String, Integer> map = new HashMap<>();
